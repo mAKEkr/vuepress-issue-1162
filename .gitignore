@@ -1,0 +1,13 @@
+# dependencies
+node_modules
+
+#IDE/OS files
+.DS_Store
+jsconfig.json
+*.log
+
+# logs
+npm-debug.log
+
+# build output
+docs/.vuepress/dist

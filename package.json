@@ -1,0 +1,15 @@
+{
+  "name": "vuepress-1162",
+  "version": "1.0.0",
+  "description": "repro https://github.com/vuejs/vuepress/issues/1162",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "author": "sullivanpt@acm.org",
+  "license": "MIT",
+  "dependencies": {
+    "vuepress": "^1.0.0-alpha.30"
+  }
+}
